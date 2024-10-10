@@ -4,7 +4,7 @@
 python3 -m venv UPGen
 
 # Activate the virtual environment
-source venv/bin/activate
+source UPGen/bin/activate
 
 # Install poetry
 pip install poetry

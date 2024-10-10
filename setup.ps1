@@ -2,7 +2,7 @@
 python -m venv UPGen
 
 # Activate the virtual environment
-& .\venv\Scripts\Activate.ps1
+& .\UPGen\Scripts\Activate.ps1
 
 # Install poetry
 pip install poetry

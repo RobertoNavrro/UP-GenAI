@@ -25,7 +25,7 @@ This will set up a virtual environment for you and install all the necessary too
      ```
    - Now, to set everything up, run the following command:
      ```powershell
-     .\setup_poetry.ps1
+     .\setup.ps1
      ```
 
 ---
