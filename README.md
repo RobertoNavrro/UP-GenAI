@@ -52,7 +52,7 @@ Make sure you activate the correct environment in VSCode, to do so
 1. Press `ctrl + shift + p`
 2. Select `Python: Select Interpreter`
 3. Select `Python 3.X.X ('UPGen':venv)` - Note that X.X is your python version number!
-4. (Optional) If you cannot select the environment, you can add the interpreter path: .\UPGen\Scripts\python.exe
+4. (Optional) If you cannot select the environment, you can add the interpreter path: `.\UPGen\Scripts\python.exe`
 
 ### That’s It! 💫
 
