@@ -47,6 +47,13 @@ This will set up a virtual environment for you and install all the necessary too
 
 ---
 
+### Important Note
+Make sure you activate the correct environment in VSCode, to do so
+1. Press `ctrl + shift + p`
+2. Select `Python: Select Interpreter`
+3. Select `Python 3.X.X ('UPGen':venv)` - Note that X.X is your python version number!
+4. (Optional) If you cannot select the environment, you can add the interpreter path: .\UPGen\Scripts\python.exe
+
 ### That’s It! 💫
 
 Once your environment is all set up, you’ll be ready to start playing around with the project. Don’t hesitate to ask questions, share ideas, or even make mistakes — that’s how we learn!
